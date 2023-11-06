@@ -1,6 +1,6 @@
-<h1 align="center">&#x1F68C Roller-Up App</h1>
+<h1 align="center">🎲 Roller-Up App</h1>
 
-Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la Unidad 6: Persistencia de datos.
+Esta práctica se centra en los Aspectos Básicos de Android con Compose en relacion a la persistencia de datos, específicamente abordando la unidad 2: Compila la IU de una app.
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
@@ -10,22 +10,16 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
 ## 📑 Contenido del Informe
 Los temas clave que se abordarán son los siguientes:
 
-- **🚀 Introducción a SQL:**
-  En esta sección, se proporciona una **introducción a los conceptos fundamentales de SQL (Structured Query Language)**. Se exploran las bases de datos relacionales y cómo SQL se utiliza para interactuar con ellas. Se aborda conceptos clave como consultas, inserciones, actualizaciones y eliminaciones de datos.
+**🚀 Conceptos Básicos de Kotlin:**
+  En esta unidad, profundizaremos en los fundamentos de Kotlin, explorando conceptos esenciales de programación orientada a objetos y lambdas. Estos conocimientos proporcionarán la base necesaria para el desarrollo interactivo de aplicaciones.
 
-- **⚙️ Configuración del Entorno SQL:**
-  Aquí, se detalla el **proceso de configuración del entorno de trabajo para utilizar SQL**. Esto incluye la instalación de un sistema de gestión de bases de datos (DBMS) y la creación de una base de datos para practicar los comandos SQL.
+**⚙️ Agrega un Botón a una App:**
+  En esta sección, aprenderemos a incorporar interactividad a nuestras aplicaciones Android. Exploraremos cómo agregar un botón y responder a eventos de clic en una app. Esto permitirá una mayor dinámica en la interacción usuario-app.
 
-- **🔍 Consultas y Manipulación de Datos:**
-  En esta sección, se aprende a **realizar consultas efectivas en SQL para recuperar datos específicos de una base de datos**. Se aborda operaciones como filtrado, ordenación y agrupación de datos.
+**⚙️ Interactúa con la Interfaz de Usuario y el Estado:**
+  Continuaremos construyendo sobre tus habilidades previas en Kotlin, llevándote más allá de los conceptos básicos. Nos sumergiremos en la creación de una aplicación de cálculo de propinas, donde aprenderás a manejar la interfaz de usuario y gestionar el estado de la aplicación para mejorar la experiencia del usuario. ¡Vamos a crear juntos!
 
-- **💾 Persistencia de Datos con Room:**
-  Se explora para saber cómo usar la biblioteca de **Room para lograr la persistencia de datos en aplicaciones Android**. Room simplifica la creación y el uso de bases de datos relacionales en el desarrollo de aplicaciones.
-
-- **🔐 Almacenamiento y Acceso de Datos con DataStore:**
-  Se aprende a **almacenar datos y acceder a ellos mediante claves utilizando DataStore**. Se enfoca en el uso de Preferences Datastore para gestionar datos simples de pares clave-valor en aplicaciones Android.
-
-Esta ruta de aprendizaje proporciona las habilidades esenciales para **utilizar SQL, implementar persistencia de datos con Room y gestionar datos con DataStore en aplicaciones Android**.
+Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfaces en aplicaciones **Android**.
 
 ## 📱 Vista de la App
 
