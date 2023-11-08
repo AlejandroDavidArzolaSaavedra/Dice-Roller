@@ -24,8 +24,7 @@ Esta ruta de aprendizaje proporciona un mayor manejo en el desarrollo de interfa
 ## 📱 Vista de la App
 
 <ul align="center">		
-  <img  style="width:20rem" src="https://i.imgur.com/GLblFZK.png">
-  <img  style="width:20rem" src="https://i.imgur.com/YJaxBZi.png">
+  <img  style="width:20rem" src="https://i.imgur.com/i69eKR6.png">
 </ul>
 
 
