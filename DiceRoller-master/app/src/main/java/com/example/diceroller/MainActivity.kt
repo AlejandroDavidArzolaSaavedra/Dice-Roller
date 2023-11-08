@@ -84,7 +84,7 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
                 .clip(MaterialTheme.shapes.medium)
                 .clickable {
                     result = Random.nextInt(1, 7)
-                    rotationState += 360f // Para realizar la rotación
+                    rotationState += 360f 
                 }
         ) {
             val animatedRotationState by animateFloatAsState(
@@ -106,7 +106,7 @@ fun DiceWithButtonAndImage(modifier: Modifier = Modifier) {
         Button(
             onClick = {
                 result = Random.nextInt(1, 7)
-                rotationState += 360f // Para realizar la rotación
+                rotationState += 360f
             },
             shape = MaterialTheme.shapes.large,
             colors = ButtonDefaults.buttonColors(redP)
