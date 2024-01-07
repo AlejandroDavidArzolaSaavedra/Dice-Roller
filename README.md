@@ -61,5 +61,3 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 ## 🤝 Contribuciones
 Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.
-
-Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
