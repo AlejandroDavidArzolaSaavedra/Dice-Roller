@@ -1,4 +1,4 @@
-<h1 align="center">🎲 Dice-Roller App</h1>
+<h1 align="center">🎲 Dice-Roller</h1>
 
 <p align="center">
   <img width="200px" src="https://github.com/AlejandroDavidArzolaSaavedra/Dice-Roller-App/assets/90756437/6930523a-d54b-4352-b088-6b6f14b09623">
